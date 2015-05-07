@@ -66,7 +66,7 @@ public class Roman {
     }
 
     public static void main(String[] args) {
-        String input = "XLII";
+        String input = "XLIIV";
 
         Roman r = new Roman();
         if (!r.validate(input)) {
